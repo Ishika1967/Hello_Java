@@ -1,5 +1,3 @@
-
-
 public class Main {
     public static void printJava(){
         System.out.println("HELLO JAVA");
